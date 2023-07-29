@@ -20,11 +20,8 @@ You can also try it.
 
 - User authentication
 - User profile
-- User posts
+- upload picture
 - User followers
-- User following
-- User likes
-- User comments
 - User notifications
 - User chats
 - User search
