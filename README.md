@@ -33,7 +33,7 @@ You can also try it.
 
 1. Clone the repository
 ```bash
-
+https://github.com/vaahu/Celebal-Summer-Intern-Project.git
 ```
 2. Install the dependencies
 ```bash
